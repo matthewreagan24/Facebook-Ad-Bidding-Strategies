@@ -2,6 +2,7 @@
 Comparing two different Facebook Bidding strategies
 
 Explanation ------------
+
 These visualizations show how companies can use two different strategies of Facebook bidding to get maximum profit. Facebook bidding is where a company creates an ad and spends a certain amount of money to make sure the ad shows up on people's screens. The general consensus is that the more money you spend, the more people whose screens have the ad on them. However, in reality, this visualization shows two different strategies where you find that there are different ways to spend that money for your needs. One strategy is the average spending strategy. This means that the company will spend an average dollar amount per impression, for example, they could say "I want to spend on average $1.00 per impression" (In reality this number is much much lower). The other strategy is when the company says that they have a maximum spending per impression, so they would say "I want to spend a maximum of $2.00 per impression." 
 
 
